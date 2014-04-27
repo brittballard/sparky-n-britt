@@ -1,3 +1,3 @@
 function () {
-  alert('hello britton. it's me mikey.');
+  alert('why did you put a single quote in your string, dummy?');
 }
